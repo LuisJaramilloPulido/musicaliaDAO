@@ -1,5 +1,5 @@
 /**
- * 
+ * Luis Jaramillo
  */
 package Negocio.Productos;
 
