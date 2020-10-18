@@ -1,5 +1,5 @@
 package Main;
-
+//main principal
 import Presentacion.Comando.Comando.IDEvento;
 import Presentacion.Controlador.ApplicationController;
 
